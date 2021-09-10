@@ -1,5 +1,4 @@
 # Webscraping com Beautiful Soup
-Código do vídeo Webscraping com Beautiful Soup
 
 Este é o repositório do código do vídeo Webscraping com Beautiful Soup do Youtube do canal Let's Data.
 
